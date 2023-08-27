@@ -1,9 +1,9 @@
 # food_app
-An android application for food ordering where user can signup 
+An android application for food ordering where user can signup and order the food items accordingly
 
 
 
-## Learning
+## Features
 - Google Map
 - Google Pay
 - Google Auth
