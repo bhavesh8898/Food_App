@@ -1,10 +1,8 @@
 # food_app
 ```
-A new Flutter-Firebase application.
+An android application for food ordering where user can signup 
 ```
 
-## Description
-- Place your own ```google-services.json``` file into your app's ```/android/app``` folder.
 
 ## Learning
 - Google Map
@@ -22,7 +20,3 @@ A new Flutter-Firebase application.
 <img src="https://user-images.githubusercontent.com/73339220/153131821-4b3a01d3-2e76-4316-873b-ff3eab031a63.jpg" width=300 /> <img src="https://user-images.githubusercontent.com/73339220/153131873-24d63b1c-18a7-4114-9aaa-c78e5c4b53c1.jpg" width=300 />
 <img src="https://user-images.githubusercontent.com/73339220/153131798-2d9d8952-4c4c-4fed-9865-3a1b12ccf6ea.jpg" width=300 /> <img src="https://user-images.githubusercontent.com/73339220/153131864-d7659efe-cd2e-4cd5-952f-76448ac5f2ef.jpg" width=300 />
 
-## Getting Started
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
