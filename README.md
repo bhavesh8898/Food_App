@@ -1,7 +1,6 @@
 # food_app
-```
 An android application for food ordering where user can signup 
-```
+
 
 
 ## Learning
